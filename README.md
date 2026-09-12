@@ -19,12 +19,13 @@ Weight distribution mattered more than I expected too. Moving the battery around
 
 Most of the debugging came down to figuring out whether an issue was wiring or code, which took a while to get good at, including learning things like proper common grounding along the way.
 
-#Files
+##Files
 
 -version5.ino, the firmware running on the ESP32
 -remote4.py, the Python remote control script
 -Photos of the car (top and side view)
 -Video link file
--Built with
+
+##Built with
 
 Arduino IDE, Python, and Wokwi for simulating the circuit before building it for real.
